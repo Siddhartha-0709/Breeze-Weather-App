@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Breeze - Your Personal Weather App</h1>
+<h1 align="center" id="title">Breeze-Your Personal Weather App</h1>
 
 <p id="description">Breeze is a cross-platform weather application developed with React Native designed to keep you informed about current weather conditions and provide accurate three-day forecasts and air quality information based on your location. With an intuitive user interface and robust features Breeze is your go-to weather companion.</p>
 
